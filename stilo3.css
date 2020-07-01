@@ -1,0 +1,165 @@
+*{
+	font-family: Rubik;
+}
+.entrar{
+
+	margin-top      : 4%;
+	width           : 130px;
+	height          : 38px;
+	background      : #0f70b8;
+	margin-right    : -15px;
+	border          : solid 1.6px #0f70b8;
+}
+
+.buscamed{
+
+	color           :#2dd4ac;
+	letter-spacing  : -1.6px;
+	margin-bottom   : 50px;
+	margin-left     : 58px;
+	margin-top     : 10px;
+	font-family: Rubik;
+
+}
+
+
+.registrarse{
+
+
+	margin-top      : 3.9px;
+	margin-left     : 5px;
+	width           : 130px;
+	height          : 38px;
+	background      : white;
+	margin-right    : 60px;
+	color           : color: #0f70b8;
+	border          : 2px solid #cecece;
+
+
+}
+.textRegistrarse{
+
+	color           : #0044cc;
+	margin-top      : 4%;
+	text-align      : center;
+}
+
+.navs{
+
+	background       : white;
+	border           : none;
+    box-shadow       : 0 0 10px 2px #efe9e9;
+    position         : fixed;
+    width            : 100%; 
+    position: fixed; 
+    z-index: 1;
+
+}
+
+.imagen{
+
+	    
+   
+   
+    margin-left        : 240px;
+    flex-wrap: wrap;
+}
+
+.buttonImage{
+	width: 110px;
+	background: #2dd4ac;   
+	 font-size: 18px;
+	 font-family: Rubik;
+	 margin-right: 30px;
+	 border:none;
+}
+
+.docame{
+	font-size: 14px;
+	    margin-left: 0;
+	    color: #0f70b8;" 
+}
+
+.textD{
+	    font-size: 13px;
+	    color: #6a6a6a;
+}
+
+.borderLeft{
+
+	border-left: solid 1px #bebebe;
+}
+.nav2{
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	border:none;
+	background-color: #0f70b8;
+	align-items: center;#
+	height: 117px;
+	width: 100%;
+}
+
+.drodown1{
+
+	width: 500px;
+    margin: auto;
+    padding: 5%;
+    height: 20px;
+    background: #ffffff;
+
+    border-color: #e7e7e7;
+}
+
+.drodown2{
+
+	width: 500px;
+    margin: auto;
+    padding: 5%;
+    height: 10px;
+    background: #ffffff;
+        background-color: #0c5f9d;
+        border: none;
+
+    border-color: #e7e7e7;
+}
+.marginDrod1{
+
+	margin-left: 50px;
+}
+
+.marginDrod2{
+
+	margin-left: 50px;
+}
+
+.textDro{
+margin-right: 280px;
+color: #5d5d5d;
+margin-bottom: 30px;
+
+}
+
+.borderSombras{
+
+	border: none;
+	  box-shadow       : 0 0 10px 2px #efe9e9;
+	  width: 
+}
+
+.textAzul{
+	color: #337ab7;
+	font-size: 16px;
+}
+
+.textNegr{
+font-size: 16px;
+color: #6a6a6a;
+
+}
+
+.tamanoCUa{
+
+	width: 500px;
+	margin-left: 30px;
+}
